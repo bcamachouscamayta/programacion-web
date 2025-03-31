@@ -1,0 +1,23 @@
+/*hoja de estilos */
+
+/*tres selectores*/
+
+/*selector de estiquetas*/
+
+p h2 {
+  color: blueviolet;
+}
+
+.contenedor {
+  color: black; /*modifica el color del texto*/
+  background-color: rgb(89, 89, 100); /*modifica el color del fondo*/
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  border: 40px solid rgb(48, 48, 59); /*ancho-tipo-color*/
+  padding: 5px; /*espacio del elemento hacia los bordes*/
+  margin: 100px; /*espacio del elemento desde los bordes*/
+  border-radius: 0px;
+  width: 800px; /*ancho*/
+  height: 300px; /*alto*/
+}

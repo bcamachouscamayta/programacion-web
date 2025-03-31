@@ -1,0 +1,19 @@
+.contenedor {
+  display: flex;
+  width: 600px;
+  height: 250;
+  background-color: #383838;
+  border-radius: 15px;
+  gap: 10px;
+}
+
+.contenedor-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+h1 {
+}
+
+h2 {
+}
